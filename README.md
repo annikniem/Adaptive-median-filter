@@ -16,6 +16,7 @@ filter out noise while also preserving edges and details.
 parameters:
 
 kuva = image to be filtered
+
 Smax = maximum filter size
 
 output:
